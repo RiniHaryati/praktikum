@@ -13,7 +13,7 @@
   <nav class="navbar navbar-custom">
     <div class="container fluid">
       <div class="navbar-header">
-        <a class="navbar-brand" href="#">Pronet</a>
+        <a class="navbar-brand" href="#">Proweb</a>
       </div>
 
       <!-- Membuat Search Bar -->
